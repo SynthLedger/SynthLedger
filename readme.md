@@ -1,4 +1,4 @@
-![SynthLedger Logo](https://api.placeholder.com/400/320?text=SynthLedger+Logo)
+![SynthLedger Logo](https://github.com/SynthLedger/SynthLedger/blob/master/logo.png?raw=true)
 
 # SynthLedger: Smart Contract Automation Platform
 
@@ -10,7 +10,7 @@ SynthLedger is a revolutionary smart contract automation platform that integrate
 
 **Vision**: To become the key infrastructure connecting AI and blockchain, driving the development of the next generation of Web3 application ecosystems.
 
-![SynthLedger Logo](https://api.placeholder.com/400/320?text=SynthLedger)
+![SynthLedger Logo](https://github.com/SynthLedger/SynthLedger/blob/master/logo.png?raw=true)
 
 ## 2. Core Value Propositions
 
